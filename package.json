@@ -1,0 +1,15 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "description": "testing jest",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Tsarev Dmitry",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
